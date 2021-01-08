@@ -6,6 +6,10 @@ The page includes a navigation bar, three separate sections that include several
 
 The website is also mobile-first responsive to allow for a larger number of people to visit the site from a variety of devices, and therefore a create more sales.
 
+## Deployment
+
+The project was developed in its entirety using GitPod and hosted on GitHub pages. The live site can be found here (https://gerakas.github.io/Whiskey-Drop/).
+
 ## Purpose
 
 This project was created simply to allow me to learn and grasp the main principles and core progressive pipeline behind designing a basic landing page for an e-commerce website. 
